@@ -3,8 +3,7 @@ import "../styles/Contact.css";
 import {
   FaEnvelope,
   FaPhone,
-  FaInstagram,
-  FaTwitter,
+  
   FaLinkedin,
 } from "react-icons/fa";
 
